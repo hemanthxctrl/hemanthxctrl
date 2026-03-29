@@ -38,7 +38,7 @@
 const hemanth = {
     pronouns: "He/Him",
     location: "India 🇮🇳",
-    currentFocus: "Solo Leveling — Productivity App 🎮",
+    currentFocus: "Building CLoud-skills,Building-Productivity App 🎮",
     learning: ["AWS Cloud Services", "Cloud Architecture", "Problem Solving"],
     collab: ["Open-Source", "Cloud-Based Projects", "Python & Web Projects"],
     askMeAbout: ["Python", "GitHub", "Beginner Coding", "Cloud Basics"],
