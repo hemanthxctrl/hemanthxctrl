@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently working on building real-world projects like my productivity app (Solo Leveling) and improving my Python applications.<br>🧑‍🤝‍🧑 👯 I’m looking to collaborate on open-source, cloud-based, and innovative Python/web projects.<br>🤔 I’m looking for help with advanced AWS concepts, backend development, and scaling applications.<br>- 🌱 I’m currently learning AWS cloud services, cloud architecture, and improving problem-solving skills.<br>💬 Ask me about Python projects, GitHub, beginner coding, and cloud basics.<br>⚡ Fun fact: I enjoy turning simple ideas into real projects and leveling up step by step!
+🔭 I’m currently working on building real-world projects like my productivity app (Solo Leveling) and improving my Python applications.<br>🧑‍🤝‍🧑 👯 I’m looking to collaborate on open-source, cloud-based, and innovative Python/web projects.<br>🤔 I’m looking for help with advanced AWS concepts, backend development, and scaling applications.<br>🌱 I’m currently learning AWS cloud services, cloud architecture, and improving problem-solving skills.<br>💬 Ask me about Python projects, GitHub, beginner coding, and cloud basics.<br>⚡ Fun fact: I enjoy turning simple ideas into real projects and leveling up step by step!
 
 
 ## 🌐 Socials:
