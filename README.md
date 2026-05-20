@@ -43,7 +43,6 @@ const hemanth = {
             code();
             explore();
             deploy();
-            repeat();
         }
     }
 };
