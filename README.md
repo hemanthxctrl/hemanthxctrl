@@ -67,48 +67,36 @@ const hemanth = {
   Tech Arsenal
 </h2>
 
-<table>
+<table border="0" cellspacing="0" cellpadding="10">
 <tr>
 <td valign="top" width="50%">
 
-🎨 **Frontend**
+&nbsp;&nbsp;🎨 **Frontend**
 
-<a href="https://skillicons.dev" title="HTML5"><img src="https://skillicons.dev/icons?i=html&theme=dark" title="HTML5" /></a>
-<a href="https://skillicons.dev" title="CSS3"><img src="https://skillicons.dev/icons?i=css&theme=dark" title="CSS3" /></a>
-<a href="https://skillicons.dev" title="JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" title="JavaScript" /></a>
-<a href="https://skillicons.dev" title="Figma"><img src="https://skillicons.dev/icons?i=figma&theme=dark" title="Figma" /></a>
+&nbsp;&nbsp;<a href="https://skillicons.dev" title="HTML5"><img src="https://skillicons.dev/icons?i=html&theme=dark" title="HTML5" /></a>&nbsp;<a href="https://skillicons.dev" title="CSS3"><img src="https://skillicons.dev/icons?i=css&theme=dark" title="CSS3" /></a>&nbsp;<a href="https://skillicons.dev" title="JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" title="JavaScript" /></a>&nbsp;<a href="https://skillicons.dev" title="Figma"><img src="https://skillicons.dev/icons?i=figma&theme=dark" title="Figma" /></a>
 
 </td>
 <td valign="top" width="50%">
 
-☁️ **Cloud & DevOps**
+&nbsp;&nbsp;☁️ **Cloud & DevOps**
 
-<a href="https://skillicons.dev" title="AWS"><img src="https://skillicons.dev/icons?i=aws&theme=dark" title="AWS" /></a>
-<a href="https://skillicons.dev" title="Nginx"><img src="https://skillicons.dev/icons?i=nginx&theme=dark" title="Nginx" /></a>
-<a href="https://skillicons.dev" title="PowerShell"><img src="https://skillicons.dev/icons?i=powershell&theme=dark" title="PowerShell" /></a>
-<a href="https://skillicons.dev" title="Linux"><img src="https://skillicons.dev/icons?i=linux&theme=dark" title="Linux" /></a>
-<a href="https://skillicons.dev" title="Bash"><img src="https://skillicons.dev/icons?i=bash&theme=dark" title="Bash" /></a>
+&nbsp;&nbsp;<a href="https://skillicons.dev" title="AWS"><img src="https://skillicons.dev/icons?i=aws&theme=dark" title="AWS" /></a>&nbsp;<a href="https://skillicons.dev" title="Nginx"><img src="https://skillicons.dev/icons?i=nginx&theme=dark" title="Nginx" /></a>&nbsp;<a href="https://skillicons.dev" title="PowerShell"><img src="https://skillicons.dev/icons?i=powershell&theme=dark" title="PowerShell" /></a>&nbsp;<a href="https://skillicons.dev" title="Linux"><img src="https://skillicons.dev/icons?i=linux&theme=dark" title="Linux" /></a>&nbsp;<a href="https://skillicons.dev" title="Bash"><img src="https://skillicons.dev/icons?i=bash&theme=dark" title="Bash" /></a>
 
 </td>
 </tr>
 <tr>
 <td valign="top" width="50%">
 
-🗄️ **Databases**
+&nbsp;&nbsp;🗄️ **Databases**
 
-<a href="https://skillicons.dev" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" title="MySQL" /></a>
-<a href="https://skillicons.dev" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" title="PostgreSQL" /></a>
-<a href="https://skillicons.dev" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" title="MongoDB" /></a>
+&nbsp;&nbsp;<a href="https://skillicons.dev" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" title="MySQL" /></a>&nbsp;<a href="https://skillicons.dev" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" title="PostgreSQL" /></a>&nbsp;<a href="https://skillicons.dev" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" title="MongoDB" /></a>
 
 </td>
 <td valign="top" width="50%">
 
-💻 **Languages & Tools**
+&nbsp;&nbsp;💻 **Languages & Tools**
 
-<a href="https://skillicons.dev" title="Python"><img src="https://skillicons.dev/icons?i=python&theme=dark" title="Python" /></a>
-<a href="https://skillicons.dev" title="C"><img src="https://skillicons.dev/icons?i=c&theme=dark" title="C" /></a>
-<a href="https://skillicons.dev" title="Git"><img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" /></a>
-<a href="https://skillicons.dev" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" title="VS Code" /></a>
+&nbsp;&nbsp;<a href="https://skillicons.dev" title="Python"><img src="https://skillicons.dev/icons?i=python&theme=dark" title="Python" /></a>&nbsp;<a href="https://skillicons.dev" title="C"><img src="https://skillicons.dev/icons?i=c&theme=dark" title="C" /></a>&nbsp;<a href="https://skillicons.dev" title="Git"><img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" /></a>&nbsp;<a href="https://skillicons.dev" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" title="VS Code" /></a>
 
 </td>
 </tr>
