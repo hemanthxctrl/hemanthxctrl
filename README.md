@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:7B42F6&height=200&section=header&text=Hemanth%20Sreenivas&fontSize=60fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:7B42F6&height=200&section=header&text=Hemanth%20Sreenivas&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=700&height=100&lines=Web+Developer+%F0%9F%92%BB;Preparing+for+AWS+CLF+CO2+%F0%9F%9A%80;Cloud+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F;Python+Developer+%F0%9F%90%8D;Mobile+App+Builder+%F0%9F%93%B1;Building+Cloud+Skills+%F0%9F%94%A5" alt="Typing SVG" />
@@ -38,7 +38,7 @@
 const hemanth = {
     pronouns: "He/Him",
     location: "India 🇮🇳",
-    currentFocus: "Building CLoud-skills,Building-Productivity App 🎮",
+    currentFocus: "Building Cloud-skills, Building-Productivity App 🎮",
     learning: ["AWS Cloud Services", "Cloud Architecture", "Problem Solving"],
     collab: ["Open-Source", "Cloud-Based Projects", "Python & Web Projects"],
     askMeAbout: ["Python", "GitHub", "Beginner Coding", "Cloud Basics"],
@@ -69,48 +69,25 @@ const hemanth = {
 
 <div align="center">
 
-<table>
-<tr>
-<td valign="top" width="50%">
+### 🎨 Frontend
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,figma,canva&theme=dark" />
+</a>
 
-#### 🎨 Frontend Magic
-<div align="center">  
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-</div>
+### ☁️ Cloud & DevOps
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=aws,nginx,powershell,linux,bash&theme=dark" />
+</a>
 
-#### ☁️ Cloud & DevOps
-<div align="center">
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
-<img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-</div>
+### 🗄️ Databases
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" />
+</a>
 
-</td>
-<td valign="top" width="50%">
-
-#### 🗄️ Databases
-<div align="center">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</div>
-
-#### 💻 Languages & Tools
-<div align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</div>
-
-</td>
-</tr>
-</table>
+### 💻 Languages & Tools
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,c,git,vscode&theme=dark" />
+</a>
 
 </div>
 
@@ -143,4 +120,4 @@ const hemanth = {
 </div>
 
 <!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B42F6,100:00F7F7&height=120&section=footer&animation=twinkling"/> 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B42F6,100:00F7F7&height=120&section=footer&animation=twinkling"/>
