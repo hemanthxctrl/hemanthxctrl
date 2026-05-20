@@ -2,8 +2,7 @@
 
 # 👋 Hi, I'm Hemanth Sreenivas
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=200&section=header&text=Hemanth%20Sreenivas&fontSize=45&fontColor=00F7F7&fontAlignY=38&desc=Developer%20%7C%20Cloud%20Learner%20%7C%20Builder&descSize=18&descAlignY=58&descColor=A78BFA&animation=fadeIn"/>
+
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=700&height=60&lines=Web+Developer+%F0%9F%92%BB;Preparing+for+AWS+CLF+C02+%F0%9F%9A%80;Cloud+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F;Python+Developer+%F0%9F%90%8D;Mobile+App+Builder+%F0%9F%93%B1;Building+Cloud+Skills+%F0%9F%94%A5" alt="Typing SVG" />
@@ -105,9 +104,7 @@ const hemanth = {
 
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B42F6,100:00F7F7&height=120&section=footer&animation=twinkling"/>
-<!-- Footer -->
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
 *"The best error message is the one that never shows up."*
  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=130&section=footer&animation=twinkling"/>
+
