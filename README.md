@@ -62,34 +62,34 @@ const hemanth = {
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <!-- Tech Stack -->
-<h2 align="center">
+<h2>
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> 
   Tech Arsenal
 </h2>
 
-<div align="center">
+🎨 **Frontend**
 
-### 🎨 Frontend
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,figma,canva&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,figma&theme=dark" />
 </a>
 
-### ☁️ Cloud & DevOps
+☁️ **Cloud & DevOps**
+
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=aws,nginx,powershell,linux,bash&theme=dark" />
 </a>
 
-### 🗄️ Databases
+🗄️ **Databases**
+
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" />
 </a>
 
-### 💻 Languages & Tools
+💻 **Languages & Tools**
+
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=python,c,git,vscode&theme=dark" />
 </a>
-
-</div>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
