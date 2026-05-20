@@ -34,7 +34,7 @@ const hemanth = {
     pronouns: "He/Him",
     location: "India 🇮🇳",
     currentFocus: "Building Cloud-skills, Building vibe coded apps"
-    learning: ["AWS Cloud Services", "Cloud Architecture", "Problem Solving"],
+    learning: ["Ai Agents", "Cloud Architecture", "Problem Solving"],
     motto: "Leveling up every day, one commit at a time ⚔️",
 
     lifeLoop: function() {
@@ -99,6 +99,9 @@ const hemanth = {
     <img alt="github-snake" src="https://raw.githubusercontent.com/hemanthxctrl/hemanthxctrl/output/github-snake.svg" />
   </picture>
 </div>
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B42F6,100:00F7F7&height=120&section=footer&animation=twinkling"/>
 
 
  
