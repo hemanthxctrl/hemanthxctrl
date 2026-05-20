@@ -33,10 +33,8 @@
 const hemanth = {
     pronouns: "He/Him",
     location: "India 🇮🇳",
-    currentFocus: "Building Cloud-skills, learning claude skills",
+    currentFocus: "Building Cloud-skills, Building vibe coded apps"
     learning: ["AWS Cloud Services", "Cloud Architecture", "Problem Solving"],
-    collab: ["Open-Source", "Cloud-Based Projects", "Python & Web Projects"],
-    askMeAbout: ["Python", "GitHub", "Beginner Coding", "Cloud Basics"],
     motto: "Leveling up every day, one commit at a time ⚔️",
 
     lifeLoop: function() {
