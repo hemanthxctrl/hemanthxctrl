@@ -67,40 +67,17 @@ const hemanth = {
   Tech Arsenal
 </h2>
 
-<table border="0" cellspacing="0" cellpadding="10">
-<tr>
-<td valign="top" width="50%">
+💻 **Languages**
 
-&nbsp;&nbsp;🎨 **Frontend**
+<a title="HTML5"><img src="https://skillicons.dev/icons?i=html&theme=dark" title="HTML5" /></a>&nbsp;<a title="CSS3"><img src="https://skillicons.dev/icons?i=css&theme=dark" title="CSS3" /></a>&nbsp;<a title="JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" title="JavaScript" /></a>&nbsp;<a title="Python"><img src="https://skillicons.dev/icons?i=python&theme=dark" title="Python" /></a>&nbsp;<a title="C"><img src="https://skillicons.dev/icons?i=c&theme=dark" title="C" /></a>&nbsp;<a title="Bash"><img src="https://skillicons.dev/icons?i=bash&theme=dark" title="Bash" /></a>
 
-&nbsp;&nbsp;<a href="https://skillicons.dev" title="HTML5"><img src="https://skillicons.dev/icons?i=html&theme=dark" title="HTML5" /></a>&nbsp;<a href="https://skillicons.dev" title="CSS3"><img src="https://skillicons.dev/icons?i=css&theme=dark" title="CSS3" /></a>&nbsp;<a href="https://skillicons.dev" title="JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" title="JavaScript" /></a>&nbsp;<a href="https://skillicons.dev" title="Figma"><img src="https://skillicons.dev/icons?i=figma&theme=dark" title="Figma" /></a>
+🌐 **Frameworks & Tools**
 
-</td>
-<td valign="top" width="50%">
+<a title="React"><img src="https://skillicons.dev/icons?i=react&theme=dark" title="React" /></a>&nbsp;<a title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" title="Node.js" /></a>&nbsp;<a title="Figma"><img src="https://skillicons.dev/icons?i=figma&theme=dark" title="Figma" /></a>&nbsp;<a title="AWS"><img src="https://skillicons.dev/icons?i=aws&theme=dark" title="AWS" /></a>&nbsp;<a title="Nginx"><img src="https://skillicons.dev/icons?i=nginx&theme=dark" title="Nginx" /></a>&nbsp;<a title="MySQL"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" title="MySQL" /></a>&nbsp;<a title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" title="PostgreSQL" /></a>&nbsp;<a title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" title="MongoDB" /></a>
 
-&nbsp;&nbsp;☁️ **Cloud & DevOps**
+⚙️ **Dev Environment**
 
-&nbsp;&nbsp;<a href="https://skillicons.dev" title="AWS"><img src="https://skillicons.dev/icons?i=aws&theme=dark" title="AWS" /></a>&nbsp;<a href="https://skillicons.dev" title="Nginx"><img src="https://skillicons.dev/icons?i=nginx&theme=dark" title="Nginx" /></a>&nbsp;<a href="https://skillicons.dev" title="PowerShell"><img src="https://skillicons.dev/icons?i=powershell&theme=dark" title="PowerShell" /></a>&nbsp;<a href="https://skillicons.dev" title="Linux"><img src="https://skillicons.dev/icons?i=linux&theme=dark" title="Linux" /></a>&nbsp;<a href="https://skillicons.dev" title="Bash"><img src="https://skillicons.dev/icons?i=bash&theme=dark" title="Bash" /></a>
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-&nbsp;&nbsp;🗄️ **Databases**
-
-&nbsp;&nbsp;<a href="https://skillicons.dev" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" title="MySQL" /></a>&nbsp;<a href="https://skillicons.dev" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" title="PostgreSQL" /></a>&nbsp;<a href="https://skillicons.dev" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" title="MongoDB" /></a>
-
-</td>
-<td valign="top" width="50%">
-
-&nbsp;&nbsp;💻 **Languages & Tools**
-
-&nbsp;&nbsp;<a href="https://skillicons.dev" title="Python"><img src="https://skillicons.dev/icons?i=python&theme=dark" title="Python" /></a>&nbsp;<a href="https://skillicons.dev" title="C"><img src="https://skillicons.dev/icons?i=c&theme=dark" title="C" /></a>&nbsp;<a href="https://skillicons.dev" title="Git"><img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" /></a>&nbsp;<a href="https://skillicons.dev" title="GitHub"><img src="https://skillicons.dev/icons?i=github&theme=dark" title="GitHub" /></a>&nbsp;<a href="https://skillicons.dev" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" title="Node.js" /></a>&nbsp;<a href="https://skillicons.dev" title="React"><img src="https://skillicons.dev/icons?i=react&theme=dark" title="React" /></a>
-
-</td>
-</tr>
-</table>
+<a title="Linux"><img src="https://skillicons.dev/icons?i=linux&theme=dark" title="Linux" /></a>&nbsp;<a title="Git"><img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" /></a>&nbsp;<a title="GitHub"><img src="https://skillicons.dev/icons?i=github&theme=dark" title="GitHub" /></a>&nbsp;<a title="PowerShell"><img src="https://skillicons.dev/icons?i=powershell&theme=dark" title="PowerShell" /></a>&nbsp;<a title="VS Code"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" title="VS Code" /></a>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
