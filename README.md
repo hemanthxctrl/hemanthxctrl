@@ -62,8 +62,6 @@ const hemanth = {
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <!-- Tech Stack -->
-<img align="right" alt="Tech" width="360" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
-
 <h2>
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> 
   Tech Arsenal
@@ -80,8 +78,6 @@ const hemanth = {
 ⚙️ **Dev Environment**
 
 <a title="Linux"><img src="https://skillicons.dev/icons?i=linux&theme=dark" title="Linux" /></a>&nbsp;<a title="Git"><img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" /></a>&nbsp;<a title="GitHub"><img src="https://skillicons.dev/icons?i=github&theme=dark" title="GitHub" /></a>&nbsp;<a title="PowerShell"><img src="https://skillicons.dev/icons?i=powershell&theme=dark" title="PowerShell" /></a>&nbsp;<a title="VS Code"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" title="VS Code" /></a>
-
-<br clear="right"/>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
