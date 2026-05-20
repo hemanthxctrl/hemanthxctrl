@@ -1,8 +1,7 @@
 <div align="center">
   
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:7B42F6&height=200&section=header&text=Hemanth+Sreenivas&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35"/>  
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:FF8C00&height=200&section=header&text=Hemanth+Sreenivas&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=700&height=60&lines=Web+Developer+%F0%9F%92%BB;Preparing+for+AWS+CLF+C02+%F0%9F%9A%80;Cloud+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F;Python+Developer+%F0%9F%90%8D;Mobile+App+Builder+%F0%9F%93%B1;Building+Cloud+Skills+%F0%9F%94%A5" alt="Typing SVG" />
@@ -13,6 +12,12 @@
 <p align="center">
   <a href="https://linkedin.com/in/hemanthxctrl">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
+  </a>
+  <a href="https://instagram.com/hemanthxctrl">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=833AB4"/>
+  </a>
+  <a href="https://github.com/hemanthxctrl">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=404040"/>
   </a>
   <a href="mailto:hemanthxctrl@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
@@ -33,7 +38,7 @@
 const hemanth = {
     pronouns: "He/Him",
     location: "India 🇮🇳",
-    currentFocus: "Building Cloud-skills, Building vibe coded apps"
+    currentFocus: "Building Cloud-skills, Building vibe coded apps",
     learning: ["Ai Agents", "Cloud Architecture", "Problem Solving"],
     motto: "Leveling up every day, one commit at a time ⚔️",
 
@@ -100,8 +105,4 @@ const hemanth = {
 </div>
 
 <!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B42F6,100:00F7F7&height=120&section=footer&animation=twinkling"/>
-
-
- 
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,100:FF0000&height=120&section=footer&animation=twinkling"/>
