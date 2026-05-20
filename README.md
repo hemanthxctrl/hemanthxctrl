@@ -32,7 +32,7 @@
 const hemanth = {
     pronouns: "He/Him",
     location: "India 🇮🇳",
-    currentFocus: "Building Cloud-skills, Building-Productivity App 🎮",
+    currentFocus: "Building Cloud-skills,exploring claude code"
     learning: ["AWS Cloud Services", "Cloud Architecture", "Problem Solving"],
     collab: ["Open-Source", "Cloud-Based Projects", "Python & Web Projects"],
     askMeAbout: ["Python", "GitHub", "Beginner Coding", "Cloud Basics"],
