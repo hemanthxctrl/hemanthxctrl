@@ -96,7 +96,7 @@ const hemanth = {
 
 &nbsp;&nbsp;💻 **Languages & Tools**
 
-&nbsp;&nbsp;<a href="https://skillicons.dev" title="Python"><img src="https://skillicons.dev/icons?i=python&theme=dark" title="Python" /></a>&nbsp;<a href="https://skillicons.dev" title="C"><img src="https://skillicons.dev/icons?i=c&theme=dark" title="C" /></a>&nbsp;<a href="https://skillicons.dev" title="Git"><img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" /></a>&nbsp;<a href="https://skillicons.dev" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" title="VS Code" /></a>
+&nbsp;&nbsp;<a href="https://skillicons.dev" title="Python"><img src="https://skillicons.dev/icons?i=python&theme=dark" title="Python" /></a>&nbsp;<a href="https://skillicons.dev" title="C"><img src="https://skillicons.dev/icons?i=c&theme=dark" title="C" /></a>&nbsp;<a href="https://skillicons.dev" title="Git"><img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" /></a>&nbsp;<a href="https://skillicons.dev" title="GitHub"><img src="https://skillicons.dev/icons?i=github&theme=dark" title="GitHub" /></a>&nbsp;<a href="https://skillicons.dev" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" title="Node.js" /></a>&nbsp;<a href="https://skillicons.dev" title="React"><img src="https://skillicons.dev/icons?i=react&theme=dark" title="React" /></a>
 
 </td>
 </tr>
