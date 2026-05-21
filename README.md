@@ -10,7 +10,7 @@
 
 <!-- Social Links -->
 <p align="center">
-  <a href="https://linkedin.com/in/hemanthxctrl" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/hemanth-sreenivas-uppala/" title="LinkedIn">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" height="48" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/u/Hemanth_sreenivas/" title="LeetCode">
