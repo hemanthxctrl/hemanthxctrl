@@ -10,11 +10,17 @@
 
 <!-- Social Links -->
 <p align="center">
-  <a href="https://linkedin.com/in/hemanthxctrl">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
+  <a href="https://linkedin.com/in/hemanthxctrl" title="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" height="48" alt="LinkedIn" />
   </a>
-  <a href="mailto:hemanthxctrl@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
+  <a href="https://instagram.com/hemanthxctrl" title="Instagram">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="48" height="48" alt="Instagram" />
+  </a>
+  <a href="https://github.com/hemanthxctrl" title="GitHub">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub" />
+  </a>
+  <a href="mailto:hemanthxctrl@gmail.com" title="Gmail">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48" height="48" alt="Gmail" />
   </a>
 </p>
 
