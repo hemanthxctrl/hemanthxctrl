@@ -13,8 +13,8 @@
   <a href="https://linkedin.com/in/hemanthxctrl" title="LinkedIn">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" height="48" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/hemanthxctrl" title="Instagram">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="48" height="48" alt="Instagram" />
+  <a href="https://leetcode.com/u/Hemanth_sreenivas/" title="LeetCode">
+    <img src="https://skillicons.dev/icons?i=leetcode&theme=dark" width="48" height="48" alt="LeetCode" />
   </a>
   <a href="https://github.com/hemanthxctrl" title="GitHub">
     <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub" />
