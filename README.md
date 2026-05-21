@@ -13,12 +13,7 @@
   <a href="https://linkedin.com/in/hemanthxctrl">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
   </a>
-  <a href="https://instagram.com/hemanthxctrl">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=833AB4"/>
-  </a>
-  <a href="https://github.com/hemanthxctrl">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=404040"/>
-  </a>
+
   <a href="mailto:hemanthxctrl@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
   </a>
@@ -74,7 +69,7 @@ const hemanth = {
 
 ⚙️ **Dev Environment**
 
-<a title="Linux"><img src="https://skillicons.dev/icons?i=linux&theme=dark" title="Linux" /></a>&nbsp;<a title="Git"><img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" /></a>&nbsp;<a title="GitHub"><img src="https://skillicons.dev/icons?i=github&theme=dark" title="GitHub" /></a>&nbsp;<a title="PowerShell"><img src="https://skillicons.dev/icons?i=powershell&theme=dark" title="PowerShell" /></a>&nbsp;<a title="VS Code"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" title="VS Code" /></a>&nbsp;<a title="Claude" href="https://claude.ai"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude-color.png" width="48" height="48" title="Claude" style="border-radius:10px;" /></a>
+<a title="Linux"><img src="https://skillicons.dev/icons?i=linux&theme=dark" title="Linux" /></a>&nbsp;<a title="Git"><img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" /></a>&nbsp;<a title="GitHub"><img src="https://skillicons.dev/icons?i=github&theme=dark" title="GitHub" /></a>&nbsp;<a title="PowerShell"><img src="https://skillicons.dev/icons?i=powershell&theme=dark" title="PowerShell" /></a>&nbsp;<a title="VS Code"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" title="VS Code" /></a>&nbsp;<a title="Claude" href="https://claude.ai"><img src="https://raw.githubusercontent.com/hemanthxctrl/hemanthxctrl/main/claude.webp" width="48" height="48" title="Claude" style="border-radius:10px;" /></a>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
