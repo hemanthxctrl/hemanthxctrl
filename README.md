@@ -14,7 +14,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" height="48" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/u/Hemanth_sreenivas/" title="LeetCode">
-    <img src="https://skillicons.dev/icons?i=leetcode&theme=dark" width="48" height="48" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="48" alt="LeetCode" />
   </a>
   <a href="https://github.com/hemanthxctrl" title="GitHub">
     <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub" />
