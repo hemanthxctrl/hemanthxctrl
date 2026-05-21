@@ -74,7 +74,7 @@ const hemanth = {
 
 ⚙️ **Dev Environment**
 
-<a title="Linux"><img src="https://skillicons.dev/icons?i=linux&theme=dark" title="Linux" /></a>&nbsp;<a title="Git"><img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" /></a>&nbsp;<a title="GitHub"><img src="https://skillicons.dev/icons?i=github&theme=dark" title="GitHub" /></a>&nbsp;<a title="PowerShell"><img src="https://skillicons.dev/icons?i=powershell&theme=dark" title="PowerShell" /></a>&nbsp;<a title="VS Code"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" title="VS Code" /></a>
+<a title="Linux"><img src="https://skillicons.dev/icons?i=linux&theme=dark" title="Linux" /></a>&nbsp;<a title="Git"><img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" /></a>&nbsp;<a title="GitHub"><img src="https://skillicons.dev/icons?i=github&theme=dark" title="GitHub" /></a>&nbsp;<a title="PowerShell"><img src="https://skillicons.dev/icons?i=powershell&theme=dark" title="PowerShell" /></a>&nbsp;<a title="VS Code"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" title="VS Code" /></a>&nbsp;<a title="Claude Code"><img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" title="Claude Code" /></a>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
