@@ -1,6 +1,9 @@
 <div align="center">
-  
+<img src="https://raw.githubusercontent.com/Sachith-Gunarathna/Sachith-Gunarathna/main/banner.gif" align="center" style="width: 100%" />
+</div>
+
 <!-- Animated Header -->
+<div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,100:1E1B4B&height=200&section=header&text=Hemanth+Sreenivas&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 <!-- Typing Animation -->
@@ -106,3 +109,5 @@ const hemanth = {
 
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,100:4C1D95&height=120&section=footer&animation=twinkling"/>
+
+<!-- Banner credit: pixel-art banner adapted from Sachith Gunarathna's profile README (github.com/Sachith-Gunarathna) -->
