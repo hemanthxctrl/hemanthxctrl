@@ -11,6 +11,18 @@
 
 <br>
 
+<!-- Animated Tech Icons -->
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+
+<br>
+
 <!-- Social Links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/hemanth-sreenivas-uppala/" title="LinkedIn">
@@ -57,6 +69,17 @@ const hemanth = {
 ```
 
 <br clear="right"/>
+
+<!-- What I Do Section -->
+<img align="left" alt="Workspace" width="320" src="assets/dev-workspace.png">
+
+### 💻 What I Do
+
+- Build full-stack mobile and web apps end-to-end — React Native/Expo on the frontend, Node.js/Express + MongoDB Atlas on the backend
+- Currently sharpening cloud fundamentals while prepping for AWS CLF-C02
+- Enjoy shipping "vibe coded" side projects fast and iterating in the open
+
+<br clear="left"/>
 
 <!-- Wave Line -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
