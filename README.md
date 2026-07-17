@@ -6,13 +6,21 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=700&height=60&lines=Web+Developer+%F0%9F%92%BB;Preparing+for+AWS+CLF+C02+%F0%9F%9A%80;Cloud+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F;Python+Developer+%F0%9F%90%8D;Mobile+App+Builder+%F0%9F%93%B1;Building+Cloud+Skills+%F0%9F%94%A5" alt="Typing SVG" />
 
 <br><br>
-
-
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
 
 <br><br>
 
-
-
+<p>
+  🔭 I'm currently focusing on <b>Building Cloud-skills & vibe coded apps</b> <br><br>
+  🌱 I'm currently learning <b>Ai Agents, Cloud Architecture, Problem Solving</b> <br><br>
+  📫 How to reach me <b><a href="mailto:hemanthxctrl@gmail.com">hemanthxctrl@gmail.com</a></b> <br><br>
+  ❓ Ask me about <b>Web Development, Python, and Cloud technologies</b>
+</p>
 <p>
   <img src="https://komarev.com/ghpvc/?username=hemanthxctrl&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
