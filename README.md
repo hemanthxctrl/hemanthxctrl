@@ -16,16 +16,19 @@
 <br><br>
 
 
+
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 </div>
 
 <!-- Social Links -->
-### Connect with me:
-<p>
-  <a href="https://www.linkedin.com/in/hemanth-sreenivas-uppala/" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" height="48" alt="LinkedIn" /></a><a href="https://leetcode.com/u/Hemanth_sreenivas/" title="LeetCode"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="48" height="48" alt="LeetCode" style="border-radius:10px; background:#242938; padding:8px;" /></a><a href="https://github.com/hemanthxctrl" title="GitHub"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub" /></a><a href="mailto:hemanthxctrl@gmail.com" title="Gmail"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48" height="48" alt="Gmail" /></a>
-</p>
+<div align="center">
+  <h3>Connect with me:</h3>
+  <p>
+    <a href="https://www.linkedin.com/in/hemanth-sreenivas-uppala/" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" height="48" alt="LinkedIn" /></a><a href="https://leetcode.com/u/Hemanth_sreenivas/" title="LeetCode"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="48" height="48" alt="LeetCode" style="border-radius:10px; background:#242938; padding:8px;" /></a><a href="https://github.com/hemanthxctrl" title="GitHub"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub" /></a><a href="mailto:hemanthxctrl@gmail.com" title="Gmail"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48" height="48" alt="Gmail" /></a>
+  </p>
+</div>
 
 <!-- About Me Section -->
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
