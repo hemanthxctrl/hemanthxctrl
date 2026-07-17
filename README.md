@@ -12,12 +12,7 @@
 
 <br><br>
 
-<p>
-  🔭 I'm currently focusing on <b>Building Cloud-skills & vibe coded apps</b> <br><br>
-  🌱 I'm currently learning <b>Ai Agents, Cloud Architecture, Problem Solving</b> <br><br>
-  📫 How to reach me <b><a href="mailto:hemanthxctrl@gmail.com">hemanthxctrl@gmail.com</a></b> <br><br>
-  ❓ Ask me about <b>Web Development, Python, and Cloud technologies</b>
-</p>
+
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=hemanthxctrl&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
