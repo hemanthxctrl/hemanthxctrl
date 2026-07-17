@@ -7,8 +7,7 @@
 
 <br><br>
 
-<!-- Skill Icons Block -->
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,c,bash,aws,nginx,mongodb,mysql,postgres,linux,git,github,powershell,vscode,figma&perline=7&theme=dark" alt="Skill Icons" />
+
 
 <br><br>
 
