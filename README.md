@@ -61,13 +61,16 @@ const hemanth = {
   Languages and Tools:
 </h2>
 
-- Backend
-
-  <img src="https://skillicons.dev/icons?i=nodejs,python,c,bash,aws,nginx&theme=dark" />
 
 - Frontend
 
   <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
+
+  
+- Backend
+
+  <img src="https://skillicons.dev/icons?i=nodejs,python,c,bash,aws,nginx&theme=dark" />
+
 
 - Database
 
