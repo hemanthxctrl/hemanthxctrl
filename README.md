@@ -1,25 +1,10 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/Sachith-Gunarathna/Sachith-Gunarathna/main/banner.gif" align="center" style="width: 100%" />
-</div>
-
+  
 <!-- Animated Header -->
-<div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,100:1E1B4B&height=200&section=header&text=Hemanth+Sreenivas&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=700&height=60&lines=Web+Developer+%F0%9F%92%BB;Preparing+for+AWS+CLF+C02+%F0%9F%9A%80;Cloud+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F;Python+Developer+%F0%9F%90%8D;Mobile+App+Builder+%F0%9F%93%B1;Building+Cloud+Skills+%F0%9F%94%A5" alt="Typing SVG" />
-
-<br>
-
-<!-- Animated Tech Icons -->
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
 
 <br>
 
@@ -69,17 +54,6 @@ const hemanth = {
 ```
 
 <br clear="right"/>
-
-<!-- What I Do Section -->
-<img align="left" alt="Workspace" width="320" src="assets/dev-workspace.png">
-
-### 💻 What I Do
-
-- Build full-stack mobile and web apps end-to-end — React Native/Expo on the frontend, Node.js/Express + MongoDB Atlas on the backend
-- Currently sharpening cloud fundamentals while prepping for AWS CLF-C02
-- Enjoy shipping "vibe coded" side projects fast and iterating in the open
-
-<br clear="left"/>
 
 <!-- Wave Line -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -132,5 +106,3 @@ const hemanth = {
 
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,100:4C1D95&height=120&section=footer&animation=twinkling"/>
-
-<!-- Banner credit: pixel-art banner adapted from Sachith Gunarathna's profile README (github.com/Sachith-Gunarathna) -->
