@@ -1,9 +1,27 @@
 <div align="center">
-  
+
+<h3>Hi 👋, I'm Hemanth Sreenivas</h3>
+
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=700&height=60&lines=Web+Developer+%F0%9F%92%BB;Preparing+for+AWS+CLF+C02+%F0%9F%9A%80;Cloud+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F;Python+Developer+%F0%9F%90%8D;Mobile+App+Builder+%F0%9F%93%B1;Building+Cloud+Skills+%F0%9F%94%A5" alt="Typing SVG" />
 
-<br>
+<br><br>
+
+<!-- Skill Icons Block -->
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,c,bash,aws,nginx,mongodb,mysql,postgres,linux,git,github,powershell,vscode,figma&perline=7&theme=dark" alt="Skill Icons" />
+
+<br><br>
+
+<p>
+  🔭 I'm currently focusing on <b>Building Cloud-skills & vibe coded apps</b> <br><br>
+  🌱 I'm currently learning <b>Ai Agents, Cloud Architecture, Problem Solving</b> <br><br>
+  📫 How to reach me <b><a href="mailto:hemanthxctrl@gmail.com">hemanthxctrl@gmail.com</a></b> <br><br>
+  ❓ Ask me about <b>Web Development, Python, and Cloud technologies</b>
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=hemanthxctrl&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
