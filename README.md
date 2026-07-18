@@ -6,14 +6,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=700&height=60&lines=Web+Developer+%F0%9F%92%BB;Preparing+for+AWS+CLF+C02+%F0%9F%9A%80;Cloud+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F;Python+Developer+%F0%9F%90%8D;Mobile+App+Builder+%F0%9F%93%B1;Building+Cloud+Skills+%F0%9F%94%A5" alt="Typing SVG" />
 
 <br><br>
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
 
-<br><br>
+
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -65,19 +59,26 @@ const hemanth = {
 
 - Backend
 
-  <img src="https://skillicons.dev/icons?i=nodejs,python,c,bash,aws,nginx&theme=dark" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="48" height="48" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="aws" width="48" height="48" />
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="nginx" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=nodejs,c,bash&theme=dark" />
 
 - Frontend
 
-  <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="js" width="48" height="48" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
 
 - Database
 
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres&theme=dark" />
 
 - Tools
 
-  <img src="https://skillicons.dev/icons?i=linux,git,github,powershell,vscode,figma&theme=dark" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=linux,git,powershell,vscode,figma&theme=dark" />
   <a title="Claude" href="https://claude.ai"><img src="https://raw.githubusercontent.com/hemanthxctrl/hemanthxctrl/main/claude.webp" width="48" height="48" title="Claude" style="border-radius:10px;" /></a>
 
 <!-- Animated Divider -->
