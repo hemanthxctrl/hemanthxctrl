@@ -1,6 +1,6 @@
 <div align="center">
 
-<h3>Hi 👋, I'm Hemanth Sreenivas</h3>
+<h1>Hi 👋, I'm Hemanth Sreenivas</h1>
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=700&height=60&lines=Web+Developer+%F0%9F%92%BB;Preparing+for+AWS+CLF+C02+%F0%9F%9A%80;Cloud+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F;Python+Developer+%F0%9F%90%8D;Mobile+App+Builder+%F0%9F%93%B1;Building+Cloud+Skills+%F0%9F%94%A5" alt="Typing SVG" />
