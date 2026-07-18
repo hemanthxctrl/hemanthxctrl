@@ -18,7 +18,7 @@
 <div align="center">
   <h3>Connect with me:</h3>
   <p>
-    <a href="https://www.linkedin.com/in/hemanth-sreenivas-uppala/" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" height="48" alt="LinkedIn" /></a><a href="https://leetcode.com/u/Hemanth_sreenivas/" title="LeetCode"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="48" height="48" alt="LeetCode" style="border-radius:10px; background:#242938; padding:8px;" /></a><a href="https://github.com/hemanthxctrl" title="GitHub"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub" /></a><a href="mailto:hemanthxctrl@gmail.com" title="Gmail"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48" height="48" alt="Gmail" /></a>
+    <a href="https://www.linkedin.com/in/hemanth-sreenivas-uppala/" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" height="48" alt="LinkedIn" /></a><a href="https://leetcode.com/u/Hemanth_sreenivas/" /></a><a href="https://github.com/hemanthxctrl" title="GitHub"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub" /></a><a href="mailto:hemanthxctrl@gmail.com" title="Gmail"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48" height="48" alt="Gmail" /></a>
   </p>
 </div>
 
